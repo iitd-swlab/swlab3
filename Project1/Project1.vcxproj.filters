@@ -19,4 +19,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Desktop\2014EET2822_2011EE50559_Assignment3.zip">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
